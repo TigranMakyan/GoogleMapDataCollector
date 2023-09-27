@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # GoogleMapDownloader.py
-# Created by Hayden Eskriett [http://eskriett.com]
+# Created by Tigran Makyan
 #
 # A script which when given a longitude, latitude and zoom level downloads a
 # high resolution google map
